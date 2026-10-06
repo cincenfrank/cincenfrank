@@ -1,5 +1,12 @@
-## Hi there 👋
+### Hi, I'm Francesco 👋
 
+Software developer based in Milan, IT 🤌
+
+- 🏢 Co-Founder & Tech Lead @overthetap
+- 🚀 Shipped [doobli.co](https://doobli.co)
+- 🫶 Big fan of Serverless architectures, clean code, and Flutter
+- 🤔 Figuring out how to make software engineering still meaningful in the AI era
+- 🐶 Taking my pointer dog, Vik, out to the fields whenever I need a reminder of why I actually enjoy sitting at my desk
 <!--
 **cincenfrank/cincenfrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
