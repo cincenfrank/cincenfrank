@@ -4,7 +4,7 @@ Software developer based in Milan, IT 🤌
 
 - 🏢 Co-Founder & Tech Lead @ [Over the Tap](https://www.overthetap.it)
 - 🚀 Shipped [doobli.co](https://doobli.co)
-- 🫶 Big fan of Serverless architectures, clean code, and Flutter
+- 🫶 Big fan of Serverless architectures, clean code and Flutter
 - 🤔 Figuring out how to make software engineering still meaningful in the AI era
 - 🐶 Taking my pointer dog, Vik, out to the fields whenever I need a reminder of why I actually enjoy sitting at my desk
 <!--
