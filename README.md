@@ -2,7 +2,7 @@
 
 Software developer based in Milan, IT 🤌
 
-- 🏢 Co-Founder & Tech Lead @overthetap
+- 🏢 Co-Founder & Tech Lead @ [Over the Tap](https://www.overthetap.it)
 - 🚀 Shipped [doobli.co](https://doobli.co)
 - 🫶 Big fan of Serverless architectures, clean code, and Flutter
 - 🤔 Figuring out how to make software engineering still meaningful in the AI era
